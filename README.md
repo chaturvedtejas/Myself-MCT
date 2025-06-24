@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M Chaturved Tejs</h1>
+<h1 align="center">Hi 👋, I'm M Chaturved Tejas</h1>
 <h3 align="center">A passionate AI Researcher and Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working on **AI drone surveillance**
